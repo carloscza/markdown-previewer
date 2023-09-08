@@ -1,0 +1,13 @@
+$main-fonts: sans-serif, Arial, Helvetica, Verdana, 'Times New Roman', monospace;
+
+*, html
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    font-family: $main-fonts;
+}
