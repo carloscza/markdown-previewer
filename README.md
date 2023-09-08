@@ -21,14 +21,14 @@ The purpose of this project was to practice building with React and Redux.
 1. Clone the repository.
 
 ```
-git
+git clone https://github.com/carloscza/markdown-previewer.git
 
 ```
 
 2. Navigate to project directory.
 
 ```
-cd
+cd markdown-previewer
 
 ```
 
