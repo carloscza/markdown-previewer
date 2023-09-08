@@ -9,7 +9,7 @@
 
 ## Overview
 
-A simple markdown previewer app that previews mardown inputted in the editor.
+A simple markdown previewer app that previews mardown input in the editor.
 [view project here](https://carloscza.github.io/markdown-previewer/)
 
 ### Motivation
